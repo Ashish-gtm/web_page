@@ -4,10 +4,6 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/NOTICES": "a7dce9cc8768b3b288593d468bfffe81",
 "assets/AssetManifest.json": "7c070b0349e1f53fdf5a46563422f55a",
@@ -17,15 +13,15 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/images/everest.jpg": "377b9238072fcfe5de5db3389169c9c9",
-"main.dart.js": "aa8399ff0c0f0c51fa967fd4430eb6ca",
+"main.dart.js": "6c465d6fdafb4734bf6222920470e911",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "64a9e80e3da20370181d58acad3095be",
 "version.json": "e295eea9e581da6c5011023a7996f457",
-"index.html": "379cf4336346bb6ff3f6e348fa1a30b1",
-"/": "379cf4336346bb6ff3f6e348fa1a30b1"
+"index.html": "83de5adb9ae71be457f0d0af02d00d68",
+"/": "83de5adb9ae71be457f0d0af02d00d68"
 };
 
 // The application shell files that are downloaded before a service worker can
